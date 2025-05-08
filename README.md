@@ -49,6 +49,7 @@ I was going to spend an extended period of time in an area that had **no interne
 - Include validation checks for project name and directory existence.
 
 ---
+
 ## ⌨️ Setup Instructions
 
 #### 1. **Script Configuration**
@@ -110,6 +111,7 @@ new-project
    - Ensure the script has permissions to create folders and execute commands in the target directory.
 
 ---
+
 ## 🤠 Breakdown of my starter packages
 ##### **FullStackStarter**
 - **Purpose**: Full-stack project with MongoDB, Express, and EJS.
@@ -130,8 +132,6 @@ new-project
 - **Purpose**: Relational database project using Express, PostgreSQL, and EJS.
 - **Includes**:
   - `express`, `postgres`, `ejs`, `dotenv`.
-
-Got it! Here's a streamlined section focused purely on installing NPM packages and zipping the folder for reuse.
 
 ---
 
