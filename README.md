@@ -1,3 +1,5 @@
+# CLI Node.js Bootstrapper
+
 ## Overview
 This CLI tool automates the creation of starter templates for JavaScript projects in any directory you navigate to. It streamlines your setup process, including git initialization, README creation, and unzipping of prebuilt starter templates and empowers you to code anywhere you are, regardless of internet connection!
 
